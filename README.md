@@ -72,7 +72,7 @@ Welcome to the Hotel Management System, a comprehensive solution designed to str
 **Author**
 ---------
 
-* [Your Name](https://example.com)
+* [Liya Priyansh](https://priyanshliya.netlify.app/)
 
 **License**
 ---------
